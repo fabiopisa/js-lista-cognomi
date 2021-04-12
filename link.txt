@@ -1,0 +1,14 @@
+FizzBuzz 
+https://playcode.io/755981/
+
+while / do while 
+https://playcode.io/756008/
+
+trova la lettera con do while 
+https://playcode.io/756036/
+
+array duplicati 
+https://playcode.io/756031/
+
+lista spesa 
+https://playcode.io/756028/
