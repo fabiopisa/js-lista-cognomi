@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #5e98e4;
+}
+h1{
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 60px;
+  font-family: 'Dela Gothic One', cursive;
+}
+#lista{
+  list-style: none;
+  text-align: center;
+  background-color: rgb(110, 209, 64);
+  padding: 60px;
+  width: 80%;
+  margin:60px auto ;
+  border-top: 20px double #21978d;
+  border-bottom: 20px double #21978d;
+  border-left: 5px solid #21978d;
+  border-right: 5px solid #21978d;
+  border-radius: 25px;
+}
+#lista li{
+  width: 40%;
+  margin: 20px auto;
+  background-color: rgb(38, 119, 22);
+  color: #FFFFFF;
+  border-radius: 10px;
+  font-family: 'Ubuntu', sans-serif;
+  padding: 5px;
+}

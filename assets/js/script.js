@@ -20,9 +20,9 @@ for(var i=0; i<lista_cognomi.length; i++){
   var elemento_lista = lista_cognomi[i];
   var posizione_umana = i + 1;
   console.log(posizione_umana + " " + elemento_lista);
-  
+
   var elemento_precedente = document.getElementById('lista').innerHTML;
 
-  document.getElementById('lista').innerHTML = elemento_precedente + "<li>" + posizione_umana + " " + elemento_lista + "</li>";
+  document.getElementById('lista').innerHTML = elemento_precedente + "<li>" + posizione_umana + ": è la posizione di " + elemento_lista + "</li>";
 }
 
