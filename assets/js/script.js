@@ -14,7 +14,7 @@ var lista_cognomi=[
 
 var cognome_utente = prompt("Digita il tuo cognome");
 lista_cognomi.push (cognome_utente);
-lista_cognomi = lista_cognomi.sort();
+lista_cognomi.sort();
 
 for(var i=0; i<lista_cognomi.length; i++){
   var elemento_lista = lista_cognomi[i];
